@@ -1,0 +1,1 @@
+web: gunicorn ayodeji_portfolio.wsgi -log-file -
